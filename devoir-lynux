@@ -1,1 +1,3 @@
-
+To install mysql, apache and php:
+You need to download source from :https://dev.mysql.com/download/mysql/, https://httpd.apache.org/download.cgi,https://www.php.net/downloads.php
+Read devoir.md for more information 
