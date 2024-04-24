@@ -34,6 +34,8 @@
 
 
     ------------o INSTALLER APACHE o------------------
+    
+    
       $ tar -zxvf httpd-2.4.59.tar.gz
       $ cd httpd-2.4.59
       $ cat README
@@ -50,6 +52,8 @@
 
 
     --------------o INSTALLER PHP o-------------------
+
+    
       $ tar -zxvf php-8.3.6.tar.gz
       $ cd php-8.3.6
       $ cat README.md
